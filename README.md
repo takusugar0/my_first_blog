@@ -1,18 +1,18 @@
-記事投稿サイト
+Article post app
 ====
 
-Djangoで作った記事投稿サイト  
+Article post app made with Django 
 
-## 機能
-* 記事投稿機能　　
+## function
+* post article　　
 
-* 記事編集機能　　
+* edit article　　
 
-* ユーザー登録機能　　
+* sign up
 
-* ログイン機能　　
+* sign in
 
-* ログアウト機能
+* logout
 
 * 記事にコメント機能
 
