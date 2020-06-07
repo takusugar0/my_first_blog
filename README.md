@@ -14,7 +14,7 @@ Article post app made with Django
 
 * logout
 
-* 記事にコメント機能
+* make comment on an article
 
 
 
