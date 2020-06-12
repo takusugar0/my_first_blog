@@ -15,10 +15,3 @@ Article post app made with Django
 * logout
 
 * make comment on an article
-
-
-
-　　
- 　
-
-
